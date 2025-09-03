@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+.header {
+    background-color: #2a88b7;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+.header p {
+    font-size: 1.1em;
+    margin-top: 5px;
+}
+
+.navbar {
+    background-color: #1e3a4c;
+    text-align: center;
+    padding: 8px 0;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0 20px;
+    font-size: 1.1em;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+}
+
+section {
+    padding: 15px 20px;
+}
+
+.home {
+    background-color: #e6f9fc;
+}
+
+.about {
+    background-color: #fff0d9;
+}
+
+.services ul {
+    list-style-type: square;
+    margin-left: 20px;
+}
+
+.services h2 {
+    color: #16a085;
+}
+
+.home h2, .about h2, .services h2 {
+    color: #16a085;
+}
+
+footer {
+    background-color: #1e3a4c;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.9em;
+}
